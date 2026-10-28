@@ -1,6 +1,6 @@
 # ==========================================================
 # Task 3: Matrix Operations Tool
-# Author: Shivans Sharma
+# Author: Deepankar Karan
 # Description:
 # A menu-driven Matrix Operations Tool using NumPy.
 # ==========================================================
